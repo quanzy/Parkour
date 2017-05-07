@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 1700916177e0ac248b6062b70718e75c
+timeCreated: 1481990456
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: ChamferBox001
+    100004: ChamferBox002
+    100006: ChamferBox003
+    100008: ChamferBox004
+    100010: ChamferBox005
+    100012: ChamferBox006
+    100014: ChamferBox007
+    100016: ChamferBox008
+    100018: ChamferBox009
+    100020: ChamferBox010
+    100022: ChamferBox011
+    100024: ChamferBox012
+    100026: ChamferCyl001
+    100028: ChamferCyl002
+    100030: ChamferCyl003
+    100032: ChamferCyl004
+    100034: Plane001
+    100036: Plane002
+    100038: Plane003
+    100040: Sphere001
+    100042: Sphere002
+    100044: //RootNode
+    400000: Box001
+    400002: ChamferBox001
+    400004: ChamferBox002
+    400006: ChamferBox003
+    400008: ChamferBox004
+    400010: ChamferBox005
+    400012: ChamferBox006
+    400014: ChamferBox007
+    400016: ChamferBox008
+    400018: ChamferBox009
+    400020: ChamferBox010
+    400022: ChamferBox011
+    400024: ChamferBox012
+    400026: ChamferCyl001
+    400028: ChamferCyl002
+    400030: ChamferCyl003
+    400032: ChamferCyl004
+    400034: Plane001
+    400036: Plane002
+    400038: Plane003
+    400040: Sphere001
+    400042: Sphere002
+    400044: //RootNode
+    2300000: Box001
+    2300002: ChamferBox001
+    2300004: ChamferBox002
+    2300006: ChamferBox003
+    2300008: ChamferBox004
+    2300010: ChamferBox005
+    2300012: ChamferBox006
+    2300014: ChamferBox007
+    2300016: ChamferBox008
+    2300018: ChamferBox009
+    2300020: ChamferBox010
+    2300022: ChamferBox011
+    2300024: ChamferBox012
+    2300026: ChamferCyl001
+    2300028: ChamferCyl002
+    2300030: ChamferCyl003
+    2300032: ChamferCyl004
+    2300034: Plane001
+    2300036: Plane002
+    2300038: Plane003
+    2300040: Sphere001
+    2300042: Sphere002
+    3300000: Box001
+    3300002: ChamferBox001
+    3300004: ChamferBox002
+    3300006: ChamferBox003
+    3300008: ChamferBox004
+    3300010: ChamferBox005
+    3300012: ChamferBox006
+    3300014: ChamferBox007
+    3300016: ChamferBox008
+    3300018: ChamferBox009
+    3300020: ChamferBox010
+    3300022: ChamferBox011
+    3300024: ChamferBox012
+    3300026: ChamferCyl001
+    3300028: ChamferCyl002
+    3300030: ChamferCyl003
+    3300032: ChamferCyl004
+    3300034: Plane001
+    3300036: Plane002
+    3300038: Plane003
+    3300040: Sphere001
+    3300042: Sphere002
+    4300000: ChamferBox001
+    4300002: ChamferCyl001
+    4300004: ChamferCyl002
+    4300006: ChamferCyl003
+    4300008: ChamferCyl004
+    4300010: Sphere001
+    4300012: Sphere002
+    4300014: Box001
+    4300016: ChamferBox002
+    4300018: ChamferBox003
+    4300020: ChamferBox004
+    4300022: ChamferBox005
+    4300024: ChamferBox006
+    4300026: ChamferBox007
+    4300028: ChamferBox008
+    4300030: ChamferBox009
+    4300032: ChamferBox010
+    4300034: ChamferBox011
+    4300036: Plane001
+    4300038: Plane002
+    4300040: Plane003
+    4300042: ChamferBox012
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

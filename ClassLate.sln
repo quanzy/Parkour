@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLate.CSharp", "ClassLate.CSharp.csproj", "{60249CB7-52A4-19D1-2E92-6177B4746359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLate.CSharp.Editor", "ClassLate.CSharp.Editor.csproj", "{C099FE4A-912C-FC31-FA1E-33570E468F93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60249CB7-52A4-19D1-2E92-6177B4746359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60249CB7-52A4-19D1-2E92-6177B4746359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60249CB7-52A4-19D1-2E92-6177B4746359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60249CB7-52A4-19D1-2E92-6177B4746359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C099FE4A-912C-FC31-FA1E-33570E468F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C099FE4A-912C-FC31-FA1E-33570E468F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C099FE4A-912C-FC31-FA1E-33570E468F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C099FE4A-912C-FC31-FA1E-33570E468F93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
